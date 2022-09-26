@@ -1,0 +1,19 @@
+body{
+    background-color: #D8FAD4;
+}
+#cabecera {
+    background-color: #62C558;
+}
+#principal {
+    background-color: #85D17D;
+}
+.articulo{
+    margin: 10px;
+}
+#pie{
+    background-color: #BECEBD;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: pink;
+}
