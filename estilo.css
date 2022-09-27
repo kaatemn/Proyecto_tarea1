@@ -1,0 +1,46 @@
+body{background-color:beige}
+h1{
+    color:black
+}
+h1{style="font-size:500%;">}
+h2{
+    style="border: 2px solid DodgerBlue;">
+}
+
+h2{
+    color:#0E8BB0}
+#imagen{
+    text-align:right;
+}
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+.link { color: #238f19; } /* CSS link color (green) */
+
+#h1 {text-align: right;}
+
+
+
+
