@@ -9,11 +9,13 @@ body{
 }
 .articulo{
     margin: 10px;
+    padding: 10px;
 }
 #pie{
     background-color: #BECEBD;
     text-align: center;
     border-style: solid;
     border-width: medium;
-    border-color: pink;
+    border-color: rgb(31, 112, 20);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
